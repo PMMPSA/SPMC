@@ -1,0 +1,10 @@
+name: DolaShop
+main: SaltyPixelDevz\CustomShopUI\Shop
+version: 4.0.5
+api: [3.0.0]
+author: SaltyPixelDevz
+depend:
+- EconomyAPI
+commands:
+  lcoinshop:
+    description: "Locm coin Shop"

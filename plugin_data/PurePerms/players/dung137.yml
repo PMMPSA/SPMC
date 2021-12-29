@@ -1,0 +1,20 @@
+---
+userName: dung137
+group: VIP6
+permissions:
+- blockpets.pet.Dragon_ice
+- blockpets.command.changepetname.use
+- blockpets.command.togglepet
+- blockpets.pet.kiwi
+- blockpets.command.changepetname.use
+- blockpets.command.togglepet
+- blockpets.pet.flamingo
+- blockpets.command.changepetname.use
+- blockpets.command.togglepet
+- blockpets.pet.Dino
+- blockpets.command.changepetname.use
+- blockpets.command.togglepet
+worlds: []
+time: -1
+expTime: -1
+...

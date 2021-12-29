@@ -1,0 +1,14 @@
+name: ChestShop
+main: muqsit\chestshop\Loader
+api: 3.11.1
+version: 5.1.0
+commands:
+  chestshop:
+    aliases: ["cs", "cshop"]
+permissions:
+  chestshop.command.add:
+    default: op
+  chestshop.command.remove:
+    default: op
+  chestshop.command.help:
+    default: op

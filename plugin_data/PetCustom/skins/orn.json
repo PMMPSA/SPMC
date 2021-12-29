@@ -1,0 +1,83 @@
+{
+	"format_version": "1.12.0",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.orn",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 2,
+				"visible_bounds_height": 1,
+				"visible_bounds_offset": [0, 0.5, 0]
+			},
+			"bones": [
+				{
+					"name": "bodyb",
+					"pivot": [0, 0, 0]
+				},
+				{
+					"name": "head",
+					"parent": "bodyb",
+					"pivot": [-0.5, 2, -5],
+					"cubes": [
+						{"origin": [-2, 0.6, -8], "size": [3, 3, 3], "uv": [14, 11]},
+						{"origin": [-1.5, 0.9, -11], "size": [2, 1, 3], "uv": [15, 0]}
+					]
+				},
+				{
+					"name": "body",
+					"parent": "bodyb",
+					"pivot": [0, 0, 0],
+					"cubes": [
+						{"origin": [-2.5, 0.2, -5], "size": [4, 4, 7], "uv": [0, 0]}
+					]
+				},
+				{
+					"name": "tail",
+					"parent": "bodyb",
+					"pivot": [-0.5, 2, 2],
+					"cubes": [
+						{"origin": [-1, 1.2, 2], "size": [1, 1, 1], "uv": [0, 5]},
+						{"origin": [-2.5, 1.2, 2.7], "size": [4, 1, 6], "uv": [0, 11]}
+					]
+				},
+				{
+					"name": "leg1",
+					"parent": "bodyb",
+					"pivot": [2, 2, -3.5],
+					"cubes": [
+						{"origin": [1.5, 0.2, -4], "size": [1, 2, 1], "uv": [5, 18]},
+						{"origin": [1.5, 0.2, -5], "size": [2, 0, 2], "uv": [0, 13]}
+					]
+				},
+				{
+					"name": "leg2",
+					"parent": "bodyb",
+					"pivot": [-3, 2, -3.5],
+					"cubes": [
+						{"origin": [-3.5, 0.2, -4], "size": [1, 2, 1], "uv": [15, 4]},
+						{"origin": [-4.5, 0.2, -5], "size": [2, 0, 2], "uv": [0, 11]}
+					]
+				},
+				{
+					"name": "leg3",
+					"parent": "bodyb",
+					"pivot": [-3, 2, 1],
+					"cubes": [
+						{"origin": [-3.5, 0.2, 0], "size": [1, 2, 3], "uv": [0, 18]},
+						{"origin": [-4.5, 0.2, 1], "size": [2, 0, 3], "uv": [0, 3]}
+					]
+				},
+				{
+					"name": "leg4",
+					"parent": "bodyb",
+					"pivot": [2, 2, 1],
+					"cubes": [
+						{"origin": [1.5, 0.2, 0], "size": [1, 2, 3], "uv": [17, 17]},
+						{"origin": [1.5, 0.2, 1], "size": [2, 0, 3], "uv": [0, 0]}
+					]
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,11 @@
+---
+version: 1.000000
+pvp-world:
+- DEFAULT
+member-additon: 2
+lvl_2_xp: 100
+xp_perlvl: 250
+xp_onkill: 25
+xp_ondeath: 20
+starting_member_limit: 2
+...

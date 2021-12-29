@@ -1,0 +1,10 @@
+---
+userName: KsViperYT
+group: Guest
+permissions:
+- blockpets.pet.aguia
+- blockpets.command.changepetname.use
+- blockpets.command.togglepet
+worlds: []
+time: -1
+...

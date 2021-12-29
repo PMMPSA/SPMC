@@ -1,0 +1,16 @@
+group_1:
+  name: §l§f•§0 Gói 1 §f•
+  types: ["Lumberjack", "Farmer", "Miner", "Builder", "Lawn Mower"]
+  rewards:
+    - "cmd:§b10.000 Xu:givemoney {player} 10000:10"
+    - "item:§bOre Generator:245,0,1:5"
+    - "cmd:§bTự động bán:setuperm {player} autosell:50"
+    - "cmd:§bChìa khóa §e(§fMiner§e):cbx key {player} miner 1:15"
+group_2:
+  name: §l§f•§0 SET KILLER §f•
+  types: ["Killer"]
+  rewards:
+    - "cmd:§cNón sát thủ:customarmor Killer helmet {player}:10"
+    - "cmd:§cÁo sát thủ:customarmor Killer chestplate {player}:10"
+    - "cmd:§cQuần sát thủ:customarmor Killer leggings {player}:10"
+    - "cmd:§cGiày sát thủ:customarmor Killer boots {player}:10"

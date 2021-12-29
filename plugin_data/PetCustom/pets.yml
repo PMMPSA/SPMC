@@ -1,0 +1,418 @@
+---
+Dino:
+  skin: Dino
+  Price: 100
+  type: Walking
+Dragon_ice:
+  skin: Dragon_ice
+  Price: 500
+  type: Flying
+africano:
+  skin: africano
+  Price: 50
+  type: Walking
+agua_viva:
+  skin: agua_viva
+  Price: 50
+  type: Walking
+aguia:
+  skin: aguia
+  Price: 50
+  type: Walking
+alpaca:
+  skin: alpaca
+  Price: 50
+  type: Walking
+ant:
+  skin: ant
+  Price: 50
+  type: Walking
+anti:
+  skin: anti
+  Price: 50
+  type: Walking
+avestruz:
+  skin: avestruz
+  Price: 50
+  type: Walking
+axolote:
+  skin: axolote
+  Price: 50
+  type: Walking
+baleia:
+  skin: baleia
+  Price: 50
+  type: Walking
+beijaflor:
+  skin: beijaflor
+  Price: 50
+  type: Walking
+beluga:
+  skin: beluga
+  Price: 50
+  type: Walking
+bisao:
+  skin: bisao
+  Price: 50
+  type: Walking
+bode:
+  skin: bode
+  Price: 50
+  type: Walking
+bongo:
+  skin: bongo
+  Price: 50
+  type: Walking
+boto:
+  skin: boto
+  Price: 50
+  type: Walking
+cabra:
+  skin: cabra
+  Price: 50
+  type: Walking
+cacatua:
+  skin: cacatua
+  Price: 50
+  type: Walking
+cacatua_egg:
+  skin: cacatua_egg
+  Price: 50
+  type: Walking
+calango:
+  skin: calango
+  Price: 50
+  type: Walking
+camelo:
+  skin: camelo
+  Price: 50
+  type: Walking
+canguru:
+  skin: canguru
+  Price: 50
+  type: Walking
+capivara:
+  skin: capivara
+  Price: 50
+  type: Walking
+caran:
+  skin: caran
+  Price: 50
+  type: Walking
+castor:
+  skin: castor
+  Price: 50
+  type: Walking
+casuar:
+  skin: casuar
+  Price: 50
+  type: Walking
+cervof:
+  skin: cervof
+  Price: 50
+  type: Walking
+cervom:
+  skin: cervom
+  Price: 50
+  type: Walking
+chimpanze:
+  skin: chimpanze
+  Price: 50
+  type: Walking
+chinchila:
+  skin: chinchila
+  Price: 50
+  type: Walking
+cisne:
+  skin: cisne
+  Price: 50
+  type: Walking
+cobra:
+  skin: cobra
+  Price: 50
+  type: Walking
+coiote:
+  skin: coiote
+  Price: 50
+  type: Walking
+coruja:
+  skin: coruja
+  Price: 50
+  type: Walking
+croco:
+  skin: croco
+  Price: 50
+  type: Walking
+crocog:
+  skin: crocog
+  Price: 50
+  type: Walking
+dik_dik:
+  skin: dik_dik
+  Price: 50
+  type: Walking
+elefante:
+  skin: elefante
+  Price: 50
+  type: Walking
+emu:
+  skin: emu
+  Price: 50
+  type: Walking
+esquilo:
+  skin: esquilo
+  Price: 50
+  type: Walking
+feneco:
+  skin: feneco
+  Price: 50
+  type: Walking
+flamingo:
+  skin: flamingo
+  Price: 50
+  type: Walking
+foca:
+  skin: foca
+  Price: 50
+  type: Walking
+formiga:
+  skin: formiga
+  Price: 50
+  type: Walking
+gamba:
+  skin: gamba
+  Price: 50
+  type: Walking
+girafa:
+  skin: girafa
+  Price: 50
+  type: Walking
+gnu:
+  skin: gnu
+  Price: 50
+  type: Walking
+gorila:
+  skin: gorila
+  Price: 50
+  type: Walking
+gua:
+  skin: gua
+  Price: 50
+  type: Walking
+ham:
+  skin: ham
+  Price: 50
+  type: Walking
+hiena:
+  skin: hiena
+  Price: 50
+  type: Walking
+hipo:
+  skin: hipo
+  Price: 50
+  type: Walking
+imperador:
+  skin: imperador
+  Price: 50
+  type: Walking
+jabuti:
+  skin: jabuti
+  Price: 50
+  type: Walking
+jacare:
+  skin: jacare
+  Price: 50
+  type: Walking
+javali:
+  skin: javali
+  Price: 50
+  type: Walking
+kiwi:
+  skin: kiwi
+  Price: 50
+  type: Walking
+komodo:
+  skin: komodo
+  Price: 50
+  type: Walking
+leao:
+  skin: leao
+  Price: 50
+  type: Walking
+lemure:
+  skin: lemure
+  Price: 50
+  type: Walking
+leoa:
+  skin: leoa
+  Price: 50
+  type: Walking
+ligre:
+  skin: ligre
+  Price: 50
+  type: Walking
+lince:
+  skin: lince
+  Price: 50
+  type: Walking
+lontra:
+  skin: lontra
+  Price: 50
+  type: Walking
+macaco:
+  skin: macaco
+  Price: 50
+  type: Walking
+mandril:
+  skin: mandril
+  Price: 50
+  type: Walking
+mega:
+  skin: mega
+  Price: 50
+  type: Walking
+morsa:
+  skin: morsa
+  Price: 50
+  type: Walking
+narval:
+  skin: narval
+  Price: 50
+  type: Walking
+ocapi:
+  skin: ocapi
+  Price: 50
+  type: Walking
+onca:
+  skin: onca
+  Price: 50
+  type: Walking
+orangotango:
+  skin: orangotango
+  Price: 50
+  type: Walking
+orca:
+  skin: orca
+  Price: 50
+  type: Walking
+orn:
+  skin: orn
+  Price: 50
+  type: Walking
+ourico:
+  skin: ourico
+  Price: 50
+  type: Walking
+pan:
+  skin: pan
+  Price: 50
+  type: Walking
+pantera:
+  skin: pantera
+  Price: 50
+  type: Walking
+pato:
+  skin: pato
+  Price: 50
+  type: Walking
+pavao:
+  skin: pavao
+  Price: 50
+  type: Walking
+pavoa:
+  skin: pavoa
+  Price: 50
+  type: Walking
+peixe_boi:
+  skin: peixe_boi
+  Price: 50
+  type: Walking
+pinguim:
+  skin: pinguim
+  Price: 50
+  type: Walking
+piranha:
+  skin: piranha
+  Price: 50
+  type: Walking
+polvo:
+  skin: polvo
+  Price: 50
+  type: Walking
+preguica:
+  skin: preguica
+  Price: 50
+  type: Walking
+rinoceronte:
+  skin: rinoceronte
+  Price: 50
+  type: Walking
+sapo:
+  skin: sapo
+  Price: 50
+  type: Walking
+suindara:
+  skin: suindara
+  Price: 50
+  type: Walking
+suri:
+  skin: suri
+  Price: 50
+  type: Walking
+tamandua:
+  skin: tamandua
+  Price: 50
+  type: Walking
+tart:
+  skin: tart
+  Price: 50
+  type: Walking
+tatu:
+  skin: tatu
+  Price: 50
+  type: Walking
+tigre:
+  skin: tigre
+  Price: 50
+  type: Walking
+tigreb:
+  skin: tigreb
+  Price: 50
+  type: Walking
+toupeira:
+  skin: toupeira
+  Price: 50
+  type: Walking
+tubarao:
+  skin: tubarao
+  Price: 50
+  type: Walking
+tubarao_baleia:
+  skin: tubarao_baleia
+  Price: 50
+  type: Walking
+tucano:
+  skin: tucano
+  Price: 50
+  type: Walking
+urso:
+  skin: urso
+  Price: 50
+  type: Walking
+urubu:
+  skin: urubu
+  Price: 50
+  type: Walking
+zebra:
+  skin: zebra
+  Price: 50
+  type: Walking
+zebram:
+  skin: zebram
+  Price: 50
+  type: Walking
+zelador:
+  skin: zelador
+  Price: 50
+  type: Walking
+...

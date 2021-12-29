@@ -1,0 +1,44 @@
+0:
+  name: "Sửa chữa vật phẩm"
+  cmd: "fix"
+  url: "https://img.pngio.com/fix-repair-tool-icon-png-and-vector-for-free-download-pngtree-fix-png-512_512.png"
+1:
+  name: "Săn quái"
+  cmd: "dungeon"
+  url: "https://img.icons8.com/plasticine/2x/monster-face.png"
+2:
+  name: "Choảng nhau"
+  cmd: "pvp"
+  url: "https://image.flaticon.com/icons/png/512/1496/1496125.png"
+3:
+  name: "Phù phép"
+  cmd: "ec"
+  url: "https://static.wikia.nocookie.net/minecraft_gamepedia/images/archive/7/77/20111108103427%21Enchanting_Table_JE4_BE2.png"
+4:
+  name: "Thuê VIP"
+  cmd: "rank"
+  url: "https://image.flaticon.com/icons/png/512/1890/1890747.png"
+5:
+  name: "Về đảo nhanh"
+  cmd: "is tp"
+  url: "https://raw.githubusercontent.com/RedCraftGH/RedSkyBlock/ba52de44d9e0a673038331c023262f39cb6e4a99/icon.png"
+6:
+  name: "SEASON PASS 1"
+  cmd: "ssp"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Golden_Medal_-1_Icon.svg/2667px-Golden_Medal_-1_Icon.svg.png"
+7:
+  name: "Chợ Đen"
+  cmd: "ah"
+  url: "https://www.salesmanage.net/uploads/images/cart-circle.png"
+8:
+  name: "Gói Ngọc"
+  cmd: "chancegem"
+  url: "https://image.flaticon.com/icons/png/512/785/785126.png"
+9:
+  name: "Chỉ Tiêu Hôm Nay"
+  cmd: "mission"
+  url: "https://purepaktechnology.com/wp-content/uploads/2019/01/mission-icon.png"
+10:
+  name: "Cửa hàng Lcoin"
+  cmd: "lcoinshop"
+  url: "https://www.iconpacks.net/icons/1/free-coin-icon-794-thumb.png"

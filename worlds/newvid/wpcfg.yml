@@ -1,0 +1,9 @@
+---
+pvp: false
+banitem:
+  325: Bucket
+  277: Diamond Shovel
+bancmds:
+  /nick: /nick
+  /newvid: /newvid
+...

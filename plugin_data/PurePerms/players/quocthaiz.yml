@@ -1,0 +1,10 @@
+---
+userName: QuocThaiz
+group: Guest
+permissions:
+- blockpets.pet.foca
+- blockpets.command.changepetname.use
+- blockpets.command.togglepet
+worlds: []
+time: -1
+...

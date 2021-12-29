@@ -1,0 +1,450 @@
+---
+Version: 1
+SkyBlock:
+  dbgamingvn2:
+    Name: dbgamingvn2's Island
+    Members:
+    - dbgamingvn2
+    Banned: []
+    Locked: false
+    Value: 0
+    World: skyblock
+    Reset Cooldown: 0
+    Challenges: []
+    Spawn:
+      X: 2.000000
+      "Y": 32.000000
+      Z: 16.000000
+    Area:
+      start:
+        X: -48.000000
+        "Y": 0
+        Z: -46
+      end:
+        X: 52.000000
+        "Y": 256
+        Z: 66.000000
+    Settings:
+      Build: "on"
+      Break: "on"
+      Pickup: "on"
+      Anvil: "on"
+      Chest: "on"
+      CraftingTable: "off"
+      Fly: "off"
+      Hopper: "on"
+      Brewing: "off"
+      Beacon: "on"
+      Buckets: "on"
+      PVP: "off"
+      FlintAndSteel: "on"
+      Furnace: "on"
+      EnderChest: "off"
+  blackpmfury:
+    Name: BlackPMFury's Island
+    Members:
+    - BlackPMFury
+    Banned: []
+    Locked: false
+    Value: 0
+    World: skyblock
+    Reset Cooldown: 0
+    Challenges: []
+    Spawn:
+      X: 510.000000
+      "Y": 33.000000
+      Z: 509.000000
+    Area:
+      start:
+        X: 460.000000
+        "Y": 0
+        Z: 454
+      end:
+        X: 560.000000
+        "Y": 256
+        Z: 559.000000
+    Settings:
+      Build: "on"
+      Break: "on"
+      Pickup: "on"
+      Anvil: "on"
+      Chest: "on"
+      CraftingTable: "off"
+      Fly: "off"
+      Hopper: "on"
+      Brewing: "off"
+      Beacon: "on"
+      Buckets: "on"
+      PVP: "off"
+      FlintAndSteel: "on"
+      Furnace: "on"
+      EnderChest: "off"
+  hreinas:
+    Name: Hreinas's Island
+    Members:
+    - Hreinas
+    Banned: []
+    Locked: false
+    Value: 0
+    World: skyblock
+    Reset Cooldown: 0
+    Challenges: []
+    Spawn:
+      X: 1010.000000
+      "Y": 33.000000
+      Z: 1009.000000
+    Area:
+      start:
+        X: 960.000000
+        "Y": 0
+        Z: 954
+      end:
+        X: 1060.000000
+        "Y": 256
+        Z: 1059.000000
+    Settings:
+      Build: "on"
+      Break: "on"
+      Pickup: "on"
+      Anvil: "on"
+      Chest: "on"
+      CraftingTable: "off"
+      Fly: "off"
+      Hopper: "on"
+      Brewing: "off"
+      Beacon: "on"
+      Buckets: "on"
+      PVP: "off"
+      FlintAndSteel: "on"
+      Furnace: "on"
+      EnderChest: "off"
+  ailanhan:
+    Name: AiLaNhan's Island
+    Members:
+    - AiLaNhan
+    Banned: []
+    Locked: false
+    Value: 0
+    World: skyblock
+    Reset Cooldown: 1612358049
+    Challenges: []
+    Spawn:
+      X: 2002
+      "Y": 18
+      Z: 2004
+    Area:
+      start:
+        X: 1952
+        "Y": 0
+        Z: 1954
+      end:
+        X: 2052
+        "Y": 256
+        Z: 2054
+    Settings:
+      Build: "on"
+      Break: "on"
+      Pickup: "on"
+      Anvil: "on"
+      Chest: "on"
+      CraftingTable: "off"
+      Fly: "off"
+      Hopper: "on"
+      Brewing: "off"
+      Beacon: "on"
+      Buckets: "on"
+      PVP: "off"
+      FlintAndSteel: "on"
+      Furnace: "on"
+      EnderChest: "off"
+  bananik6406:
+    Name: BananiK6406's Island
+    Members:
+    - BananiK6406
+    - AiLaNhan
+    - dbgamingvn2
+    Banned: []
+    Locked: false
+    Value: 0
+    World: skyblock
+    Reset Cooldown: 0
+    Challenges: []
+    Spawn:
+      X: 2510.000000
+      "Y": 33.000000
+      Z: 2509.000000
+    Area:
+      start:
+        X: 2460.000000
+        "Y": 0
+        Z: 2454
+      end:
+        X: 2560.000000
+        "Y": 256
+        Z: 2559.000000
+    Settings:
+      Build: "on"
+      Break: "on"
+      Pickup: "on"
+      Anvil: "on"
+      Chest: "on"
+      CraftingTable: "off"
+      Fly: "off"
+      Hopper: "on"
+      Brewing: "off"
+      Beacon: "on"
+      Buckets: "on"
+      PVP: "off"
+      FlintAndSteel: "on"
+      Furnace: "on"
+      EnderChest: "off"
+  hakaizen8877:
+    Name: hakaizen8877's Island
+    Members:
+    - hakaizen8877
+    Banned: []
+    Locked: false
+    Value: 0
+    World: skyblock
+    Reset Cooldown: 0
+    Challenges: []
+    Spawn:
+      X: 3010.000000
+      "Y": 33.000000
+      Z: 3009.000000
+    Area:
+      start:
+        X: 2960.000000
+        "Y": 0
+        Z: 2954
+      end:
+        X: 3060.000000
+        "Y": 256
+        Z: 3059.000000
+    Settings:
+      Build: "on"
+      Break: "on"
+      Pickup: "on"
+      Anvil: "on"
+      Chest: "on"
+      CraftingTable: "off"
+      Fly: "off"
+      Hopper: "on"
+      Brewing: "off"
+      Beacon: "on"
+      Buckets: "on"
+      PVP: "off"
+      FlintAndSteel: "on"
+      Furnace: "on"
+      EnderChest: "off"
+  icecream1073:
+    Name: ICECream1073's Island
+    Members:
+    - ICECream1073
+    Banned: []
+    Locked: false
+    Value: 0
+    World: skyblock
+    Reset Cooldown: 0
+    Challenges: []
+    Spawn:
+      X: 3509.000000
+      "Y": 35.000000
+      Z: 3504.000000
+    Area:
+      start:
+        X: 3459.000000
+        "Y": 0
+        Z: 3454
+      end:
+        X: 3559.000000
+        "Y": 256
+        Z: 3554.000000
+    Settings:
+      Build: "on"
+      Break: "on"
+      Pickup: "on"
+      Anvil: "on"
+      Chest: "on"
+      CraftingTable: "off"
+      Fly: "off"
+      Hopper: "on"
+      Brewing: "off"
+      Beacon: "on"
+      Buckets: "on"
+      PVP: "off"
+      FlintAndSteel: "on"
+      Furnace: "on"
+      EnderChest: "off"
+  shadowmarlin319:
+    Name: ShadowMarlin319's Island
+    Members:
+    - ShadowMarlin319
+    Banned: []
+    Locked: false
+    Value: 0
+    World: skyblock
+    Reset Cooldown: 0
+    Challenges: []
+    Spawn:
+      X: 4002.000000
+      "Y": 32.000000
+      Z: 4016.000000
+    Area:
+      start:
+        X: 3952.000000
+        "Y": 0
+        Z: 3954
+      end:
+        X: 4052.000000
+        "Y": 256
+        Z: 4066.000000
+    Settings:
+      Build: "on"
+      Break: "on"
+      Pickup: "on"
+      Anvil: "on"
+      Chest: "on"
+      CraftingTable: "off"
+      Fly: "off"
+      Hopper: "on"
+      Brewing: "off"
+      Beacon: "on"
+      Buckets: "on"
+      PVP: "off"
+      FlintAndSteel: "on"
+      Furnace: "on"
+      EnderChest: "off"
+  haongu1592k8:
+    Name: haongu1592k8's Island
+    Members:
+    - haongu1592k8
+    Banned: []
+    Locked: false
+    Value: 0
+    World: skyblock
+    Reset Cooldown: 0
+    Challenges: []
+    Spawn:
+      X: 4509.000000
+      "Y": 35.000000
+      Z: 4504.000000
+    Area:
+      start:
+        X: 4459.000000
+        "Y": 0
+        Z: 4454
+      end:
+        X: 4559.000000
+        "Y": 256
+        Z: 4554.000000
+    Settings:
+      Build: "on"
+      Break: "on"
+      Pickup: "on"
+      Anvil: "on"
+      Chest: "on"
+      CraftingTable: "off"
+      Fly: "off"
+      Hopper: "on"
+      Brewing: "off"
+      Beacon: "on"
+      Buckets: "on"
+      PVP: "off"
+      FlintAndSteel: "on"
+      Furnace: "on"
+      EnderChest: "off"
+  kayne6162:
+    Name: Kayne6162's Island
+    Members:
+    - Kayne6162
+    Banned: []
+    Locked: false
+    Value: 0
+    World: skyblock
+    Reset Cooldown: 0
+    Challenges: []
+    Spawn:
+      X: 5010.000000
+      "Y": 35.000000
+      Z: 5009.000000
+    Area:
+      start:
+        X: 4960.000000
+        "Y": 0
+        Z: 4954
+      end:
+        X: 5060.000000
+        "Y": 256
+        Z: 5059.000000
+    Settings:
+      Build: "on"
+      Break: "on"
+      Pickup: "on"
+      Anvil: "on"
+      Chest: "on"
+      CraftingTable: "off"
+      Fly: "off"
+      Hopper: "on"
+      Brewing: "off"
+      Beacon: "on"
+      Buckets: "on"
+      PVP: "off"
+      FlintAndSteel: "on"
+      Furnace: "on"
+      EnderChest: "off"
+  jose9543:
+    Name: Jose9543's Island
+    Members:
+    - Jose9543
+    Banned: []
+    Locked: false
+    Value: 0
+    World: skyblock
+    Reset Cooldown: 0
+    Challenges: []
+    Spawn:
+      X: 5502.000000
+      "Y": 34.000000
+      Z: 5516.000000
+    Area:
+      start:
+        X: 5452.000000
+        "Y": 0
+        Z: 5454
+      end:
+        X: 5552.000000
+        "Y": 256
+        Z: 5566.000000
+    Settings:
+      Build: "on"
+      Break: "on"
+      Pickup: "on"
+      Anvil: "on"
+      Chest: "on"
+      CraftingTable: "off"
+      Fly: "off"
+      Hopper: "on"
+      Brewing: "off"
+      Beacon: "on"
+      Buckets: "on"
+      PVP: "off"
+      FlintAndSteel: "on"
+      Furnace: "on"
+      EnderChest: "off"
+Islands: 12
+Custom: true
+CustomX: 2
+CustomY: 3
+CustomZ: 4
+Pos1: false
+Pos2: false
+x1: ~
+x2: ~
+y1: ~
+y2: ~
+z1: ~
+z2: ~
+blocks: []
+worlds: 0
+...

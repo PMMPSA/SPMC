@@ -1,0 +1,8 @@
+# Tags:
+# {player} -> Get the player's name
+# § -> Color Code symbol, used in the example below
+super-vanish-join: "§b{player} joined!"
+super-vanish-leave: "§b{player} left!"
+
+# Change the prefix for the /broadcast command
+broadcast-prefix: "Bet"

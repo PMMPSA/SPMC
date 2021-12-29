@@ -1,0 +1,15 @@
+---
+equip:
+  §l§bＡｎｇｅｌ_Ｓｗｏｒｄ§r:
+    item: "276:0"
+    rating: S
+    level: 10
+    percent: 10
+    status:
+      hp: "2"
+      str: "10"
+      def: "5"
+      dex: "0"
+      stp: "0"
+      ctk: "10"
+...

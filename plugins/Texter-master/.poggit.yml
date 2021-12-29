@@ -1,0 +1,11 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/fuyutsuki/Texter
+branches:
+  - master
+projects:
+  Texter:
+    path: ""
+    icon: "/assets/Logo.png"
+    libs:
+      - src: jojoe77777/FormAPI/libFormAPI
+        version: 1.3.0
+...

@@ -1,0 +1,48 @@
+## DO NOT TOUCH (This is for Updates only!)
+shop-version: 4
+# DO NOT TOUCH ^^^^^
+
+#Command Example!!!
+#======================================================================================================
+# Commands:
+#
+#
+#    - "cmd:Sharpness III:100:Console:enchant {player} protection 3:textures/items/stone_sword"
+#            NAME^^^ Price^^^ TYPE^^^            COMMAND^^^^^             PICTURE^^^^^^^
+#
+# Items:
+#
+#   - "268:0:1:250:0:Default:textures/items/wood_sword"
+#
+#   - "ID:META:NUMBER:PRICE(PER ITEM THEY BUY):SELL(PER ITEM THEY SELL):NAME(Defalut OR Custom with §):Picture"
+#
+######## IMPORTANT #########
+#
+#  Next Update Finishes Enchants (Can be Done with Commands!)
+#
+#  NEW!!! We have a Minecraft Texture Library on our Website!
+#         Go to: http://saltypixel.gs/textures after that add the item like this:
+#                   http://saltypixel.ga/textures/blocks/tnt_side.png (You can Send us .png files and we will add them!)
+#                          That would Look like this in use!
+#
+#   - "268:0:1:250:0:Default:http://saltypixel.ha/textures/blocks/tnt_side.png"
+#
+#
+# Developer: AlexPads Team: SaltyPixelDevz! (hub.saltypixel.ga 19132) Join!
+# NEW!!!!!!!!!! SubCategories!
+#======================================================================================================
+
+# MUST be all Lowercase! RECOMMENDED TO KEEP THIS YOUR DEFAULT SHOP!
+shop: # if you want the shop to have a custom name you must add the options in the Config.yml file if now it will default to ShopUI
+  0: #must start at 0 and go up by one with every new category you make.
+    Name: "§l§f• §6Chìa khóa§f •"
+    Commands:
+      - "cmd:§l§f•§0 Donate §f•:100:Console:key {player} locked 1"
+  1:
+    Name: "§l§f• §6Quyền lợi§f •"
+    Commands:
+      - "cmd:§l§f•§0 Gói VIP §f•:0:Player:rank"
+  2:
+    Name: "§l§f• Minion§f •"
+    Commands:
+      - "cmd:§l§f•§0 Minion §f•:1000:Console:minion {player}"

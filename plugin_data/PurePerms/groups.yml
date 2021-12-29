@@ -1,0 +1,159 @@
+---
+Guest:
+  alias: gst
+  isDefault: true
+  inheritance: []
+  permissions:
+  - essentials.kit
+  - essentials.kit.other
+  - pchat.colored.format
+  - pchat.colored.nametag
+  - pocketmine.command.list
+  - pperms.command.ppinfo
+  worlds: []
+Admin:
+  alias: adm
+  inheritance:
+  - Guest
+  permissions:
+  - essentials.gamemode
+  - pocketmine.broadcast
+  - pocketmine.command.gamemode
+  - pocketmine.command.give
+  - pocketmine.command.kick
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  worlds: []
+Owner:
+  alias: owr
+  inheritance:
+  - Admin
+  permissions:
+  - essentials
+  - pocketmine.command
+  - pperms.command
+  worlds: []
+OP:
+  alias: op
+  inheritance: []
+  permissions:
+  - '*'
+  worlds: []
+VIP1:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - pmrequisites.feed
+  - pmrequisites.fly
+  worlds: []
+VIP2:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - pmrequisites.feed
+  - pmrequisites.fly
+  - pmrequisites.heal
+  - pmrequisites.repair
+  - pocketmine.command.teleport
+  worlds: []
+VIP3:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - autosell
+  - enchant.5
+  - pmrequisites.feed
+  - pmrequisites.fly
+  - pmrequisites.heal
+  - pmrequisites.nick
+  - pmrequisites.repair
+  - pmrequisites.size
+  - pocketmine.command.teleport
+  worlds: []
+VIP4:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - autosell
+  - enchant.5
+  - pmrequisites.feed
+  - pmrequisites.fly
+  - pmrequisites.heal
+  - pmrequisites.nick
+  - pmrequisites.repair
+  - pmrequisites.size
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  worlds: []
+VIP5:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - autosell
+  - enchant.5
+  - pmrequisites.feed
+  - pmrequisites.fly
+  - pmrequisites.heal
+  - pmrequisites.nick
+  - pmrequisites.repair
+  - pmrequisites.size
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  worlds: []
+VIP6:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - autosell
+  - enchant.5
+  - pmrequisites.feed
+  - pmrequisites.fly
+  - pmrequisites.heal
+  - pmrequisites.nick
+  - pmrequisites.repair
+  - pmrequisites.size
+  - pocketmine.command.teleport
+  - pocketmine.command.time
+  worlds: []
+Op:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+Police:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions:
+  - //fly
+  - /autosell
+  - /fly
+  - Fly
+  - fly
+  worlds:
+    skyblock:
+      isDefault: false
+      permissions:
+      - fly
+      - /fly
+      - fly
+§l§cYou§l§4Tube:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+YouTube:
+  alias: ""
+  isDefault: false
+  inheritance: []
+  permissions: []
+  worlds: []
+...

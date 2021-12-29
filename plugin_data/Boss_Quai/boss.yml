@@ -1,0 +1,261 @@
+---
+- name: §l§6【§aLevel§e 1§6】§f Goblin
+  skin: goblin
+  maxhealth: 50
+  damage: 2
+  speed: 2
+  posX: 25.632900
+  posY: 33.000000
+  posZ: 336.547500
+  level: test
+  drops:
+  - "1:0:1"
+  - "4:0:32"
+  scale: 1
+  commands:
+  - boss cooldown 0 20
+  - givemoney {player} 50
+- name: §l§6【§aLevel§e 1§6】§f Goblin
+  skin: goblin
+  maxhealth: 50
+  damage: 2
+  speed: 2
+  posX: 32.102900
+  posY: 33.000000
+  posZ: 327.187500
+  level: test
+  drops:
+  - "1:0:1"
+  - "4:0:32"
+  scale: 1
+  commands:
+  - boss cooldown 1 20
+  - givemoney {player} 50
+- name: §l§6【§aLevel§e 1§6】§f Goblin
+  skin: goblin
+  maxhealth: 50
+  damage: 2
+  speed: 2
+  posX: 30.898000
+  posY: 33.000000
+  posZ: 332.385800
+  level: test
+  drops:
+  - "1:0:1"
+  - "4:0:32"
+  scale: 1
+  commands:
+  - boss cooldown 2 20
+  - givemoney {player} 50
+- name: §l§6【§aLevel§e 1§6】§f Goblin
+  skin: goblin
+  maxhealth: 100
+  damage: 2
+  speed: 2
+  posX: 34.043200
+  posY: 33.000000
+  posZ: 334.828700
+  level: test
+  drops:
+  - "1:0:1"
+  - "4:0:32"
+  scale: 1
+  commands:
+  - boss cooldown 3 20
+- name: §l§6【§aLevel§e 2§6】§f Ogre
+  skin: ogre
+  maxhealth: 200
+  damage: 3
+  speed: 2
+  posX: 65.070400
+  posY: 33.000000
+  posZ: 369.828300
+  level: test
+  drops:
+  - "1:0:1"
+  - "4:0:32"
+  scale: 1
+  commands:
+  - givemoney {player} 50
+  - boss cooldown 4 20
+- name: §l§6【§aLevel§e 2§6】§b Ogre
+  skin: ogre
+  maxhealth: 200
+  damage: 3
+  speed: 2
+  posX: 68.581300
+  posY: 33.000000
+  posZ: 371.816700
+  level: test
+  drops:
+  - "1:0:1"
+  - "4:0:32"
+  scale: 1
+  commands:
+  - boss cooldown 5 20
+  - givemoney {player} 100
+- name: §l§6【§aLevel§e 2§6】§b Ogre
+  skin: ogre
+  maxhealth: 200
+  damage: 3
+  speed: 2
+  posX: 72.618300
+  posY: 33.000000
+  posZ: 370.270400
+  level: test
+  drops:
+  - "1:0:1"
+  - "4:0:32"
+  scale: 1
+  commands:
+  - boss cooldown 6 20
+  - givemoney {player} 100
+- name: §l§6【§aLevel§e 2§6】§b Ogre
+  skin: ogre
+  maxhealth: 200
+  damage: 3
+  speed: 2
+  posX: 77.289600
+  posY: 33.000000
+  posZ: 369.689500
+  level: test
+  drops:
+  - "1:0:1"
+  - "4:0:32"
+  scale: 1
+  commands:
+  - givemoney {player} 100
+  - boss cooldown 7 20
+- name: §l§6【§aLevel§e 2§6】§b Ogre
+  skin: ogre
+  maxhealth: 200
+  damage: 3
+  speed: 2
+  posX: 78.087900
+  posY: 33.000000
+  posZ: 365.927500
+  level: test
+  drops:
+  - "1:0:1"
+  - "4:0:32"
+  scale: 1
+  commands:
+  - boss cooldown 8 20
+- name: §l§6【§aLevel§e 2§6】§b Ogre
+  skin: ogre
+  maxhealth: 200
+  damage: 3
+  speed: 2
+  posX: 78.175400
+  posY: 33.000000
+  posZ: 360.385000
+  level: test
+  drops:
+  - "1:0:1"
+  - "4:0:32"
+  scale: 1
+  commands:
+  - givemoney {player} 100
+  - boss cooldown 9 20
+- name: §l§6【§aLevel§e 3§6】 §aGoblin Berserker
+  skin: goblin_berserker
+  maxhealth: 300
+  damage: 3.500000
+  speed: 2
+  posX: 75.509900
+  posY: 33.000000
+  posZ: 350.041900
+  level: test
+  drops:
+  - "1:0:1"
+  - "4:0:32"
+  scale: 1
+  commands:
+  - givemoney {player} 100
+  - boss cooldown 10 20
+  custom-item:
+    1:
+      id: "278:0:1"
+      chance: 50
+      name: §l§aSuper Pickaxe
+      lore: §l§aRARITY:§e **
+      enchantment:
+      - "17:5"
+      - "15:8"
+- name: §l§6【§aLevel§e 3§6】 §aGoblin Berserker
+  skin: goblin_berserker
+  maxhealth: 300
+  damage: 3.500000
+  speed: 2
+  posX: 73.697800
+  posY: 33.000000
+  posZ: 344.595300
+  level: test
+  drops:
+  - "1:0:1"
+  - "4:0:32"
+  scale: 1
+  commands:
+  - givemoney {player} 100
+  - boss cooldown 11 20
+- name: §l§6【§aLevel§e 3§6】 §aGoblin Berserker
+  skin: goblin_berserker
+  maxhealth: 300
+  damage: 3.500000
+  speed: 2
+  posX: 68.872200
+  posY: 33.000000
+  posZ: 343.536500
+  level: test
+  drops:
+  - "1:0:1"
+  - "4:0:32"
+  scale: 1
+  commands:
+  - givemoney {player} 100
+  - boss cooldown 12 20
+- name: §l§6【§aLevel§e 3§6】 §aGoblin Berserker
+  skin: goblin_berserker
+  maxhealth: 300
+  damage: 3.500000
+  speed: 2
+  posX: 65.910700
+  posY: 33.000000
+  posZ: 349.698500
+  level: test
+  drops:
+  - "1:0:1"
+  - "4:0:32"
+  scale: 1
+  commands:
+  - givemoney {player} 100
+  - boss cooldown 13 20
+- name: §l§f[§cBOSS§f] §6【§aLevel§e 10§6】 §aOrge
+  skin: ogre
+  maxhealth: 2000
+  damage: 3
+  speed: 1.200000
+  posX: 66.801700
+  posY: 33.000000
+  posZ: 320.991500
+  level: test
+  drops:
+  - "1:0:1"
+  - "4:0:32"
+  scale: 3
+  commands:
+  - givemoney {player} 10000
+  custom-item:
+    1:
+      id: "278:0:1"
+      chance: 90
+      name: §l§aSacred Pickaxe
+      lore: ""
+      enchantment:
+      - "17:5"
+      - "15:8"
+    2:
+      wings:
+        type: Sacred
+        chance: 0.100000
+...

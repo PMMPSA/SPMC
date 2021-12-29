@@ -1,0 +1,626 @@
+---
+Dragon_ice:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+Dino:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+africano:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+agua_viva:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+aguia:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+alpaca:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+ant:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+anti:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+avestruz:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+axolote:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+baleia:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+beijaflor:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+beluga:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+bisao:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+bode:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+bongo:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+boto:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+cabra:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+cacatua:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+cacatua_egg:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+calango:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+camelo:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+canguru:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+capivara:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+caran:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+castor:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+casuar:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+cervof:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+cervom:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+chimpanze:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+chinchila:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+cisne:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+cobra:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+coiote:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+coruja:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+croco:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+crocog:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+dik_dik:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+elefante:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+emu:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+esquilo:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+feneco:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+flamingo:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+foca:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+formiga:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+gamba:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+girafa:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+gnu:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+gorila:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+gua:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+ham:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+hiena:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+hipo:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+imperador:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+jabuti:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+jacare:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+javali:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+kiwi:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+komodo:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+leao:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+lemure:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+leoa:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+ligre:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+lince:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+lontra:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+macaco:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+mandril:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+mega:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+morsa:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+narval:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+ocapi:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+onca:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+orangotango:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+orca:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+orn:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+ourico:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+pan:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+pantera:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+pato:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+pavao:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+pavoa:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+peixe_boi:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+pinguim:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+piranha:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+polvo:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+preguica:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+rinoceronte:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+sapo:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+suindara:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+suri:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+tamandua:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+tart:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+tatu:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+tigre:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+tigreb:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+toupeira:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+tubarao:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+tubarao_baleia:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+tucano:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+urso:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+urubu:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+zebra:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+zebram:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+zelador:
+  Can-Attack: true
+  Can-Be-Ridden: true
+  Can-Sit-On-Owner: true
+  Speed: 1.500000
+  Max-Size: 10
+...

@@ -1,0 +1,14 @@
+1:
+ Name: "§l§eNgọc sắt bén" #name gem
+ Enchants:
+  VanillaEC: "9:8"
+  PiggyCE: ""
+ ID: '388:0'
+ Lore: "§l§c>§e Loại:§6 Vũ khí\n§l§c>§e Mô tả: Tăng sức sát thương khi khảm vào kiếm"
+2:
+ Name: "§l§eNgọc Mù Quán" #name gem
+ Enchants: 
+  PiggyCE: "108:0"
+  VanillaEC: ""
+ ID: '41:0'
+ Lore: "§l§c>§e Loại:§6 Vũ khí\n§l§c>§e Mô tả: gây mù đối khi khảm vào kiếm"

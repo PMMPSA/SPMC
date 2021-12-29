@@ -1,0 +1,12 @@
+group_1:
+  name: §l§f•§0 Gói 1 §f•
+  types: ["Lumberjack", "Farmer", "Miner", "Combat", "Builder", "Lawn Mower"]
+  rewards:
+    - "cmd:10.000 Xu:givemoney {player} 10000:10"
+    - "item:Ore Generator:248,0,1:5"
+group_2:
+  name: §l§f•§0 Gói 2 §f•
+  types: ["Lumberjack", "Farmer", "Miner", "Combat", "Builder", "Lawn Mower"]
+  rewards:
+    - "cmd:10.000 Xu:givemoney {player} 10000:10"
+    - "item:Ore Generator:248,0,1:5"

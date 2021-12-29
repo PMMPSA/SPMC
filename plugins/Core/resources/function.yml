@@ -1,0 +1,32 @@
+0:
+  name: "Sửa chữa vật phẩm"
+  cmd: "fix"
+  url: "https://img.pngio.com/fix-repair-tool-icon-png-and-vector-for-free-download-pngtree-fix-png-512_512.png"
+1:
+  name: "Săn quái"
+  cmd: "dungeon"
+  url: "https://1001freedownloads.s3.amazonaws.com/icon/thumb/341351/Blue-Monster-icon.png"
+2:
+  name: "Choảng nhau"
+  cmd: "pvp"
+  url: "https://image.flaticon.com/icons/png/512/1496/1496125.png"
+3:
+  name: "Phù phép"
+  cmd: "ec"
+  url: "https://static.wikia.nocookie.net/minecraft_gamepedia/images/archive/7/77/20111108103427%21Enchanting_Table_JE4_BE2.png"
+4:
+  name: "Thuê VIP"
+  cmd: "rank"
+  url: "https://image.flaticon.com/icons/png/512/1890/1890747.png"
+5:
+  name: "Về đảo nhanh"
+  cmd: "is tp"
+  url: "https://art.pixilart.com/7bcd355d17382e5.png"
+6:
+  name: "SEASON PASS 1"
+  cmd: "ssp"
+  url: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Golden_Medal_-1_Icon.svg/2667px-Golden_Medal_-1_Icon.svg.png"
+7:
+  name: "Chợ Đen"
+  cmd: "ah"
+  url: "https://lh3.googleusercontent.com/aXVvjpy_HtUc46-Zs6Lj0061skyAkuu_a4HiN_9Gj48bcYVCx_HnfgL3HWxVcTypYDE"

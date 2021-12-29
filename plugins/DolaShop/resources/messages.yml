@@ -1,0 +1,33 @@
+message-version: 5
+Titles:
+  Items: "§c§lVật phẩm" # Title on the Items Section                    (All of these three things can have colors using the "§" Symbol!)
+  Amount: "§c§lsố lượng" # Title on the Buying area with Sliders and Things!
+
+
+Messages:
+  Survival: "You must Be in Survival Mode to use the Shop!" # Message for when player is in creative and shop is set to survival only
+  ExitButton: "§c§lTrở lại" # Button for Item Category
+  Category_ExitButton: "§c§lThoát" # Button for Exiting Plugin!
+  Input: "§e§lSố lượng" # The Words above the Input Amount!
+  # You can use {price here now!}
+  Each: "§e§l{price}§a Yên" # Signs for the Buttons like Steak 4($ Each) that is the part it changes
+
+  # You can add {sell} here For Showing the Sell Price of the Item.
+  BuySell: "§l§eMua§6 /§e bán§a {sell}§e Yên" # The words next to the Toggle Switch
+
+  # You can Also add {sell} to here if you prefer it in the message up top.
+  Information: "§l§aBạn có muốn mua hoặc bán vật phẩm? "
+  ## You can use {amount}, {item} and {cost} here.
+  Paid_for: "§a§lBạn đã mua§e {item}, §esố lượng {amount}"
+  ## You can use {amount}, {item}, {cost}, and {missing} here.
+  Not_enough_money: "§l§cBạn còn thiếu §e{missing} §cđể mua vật phẩm vừa chọn"
+  Not_enough_money_command: "You don't have enough money to buy that Command!"
+  Paid: "§l§aBạn đã bán vật phẩm §e{item}§a với số lượng§e {amount} §aNhận được§e {pay} §aYên."
+  Not_enough_items: "You tried to sell {amount} of {item} for {pay} but didn't have enough Items!"
+  cmd_confirm: "Are you sure you want to Buy this Command?"
+  yes: "§a§lCó"
+  no: "§4§lKhông"
+  command_buy_cancel: "You canceled the Transaction!"
+  NoPermission: "§cError: §7You don't have Permission to Use that Shop!"
+  ShopError: "§cError: §7That Shop Does Not exist!"
+  BannedinWorld: "§cError: §7That Command Has Been banned in this World"

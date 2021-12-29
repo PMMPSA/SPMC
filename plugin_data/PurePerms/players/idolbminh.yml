@@ -1,0 +1,23 @@
+---
+userName: idolbminh
+group: VIP5
+permissions:
+- blockpets.pet.ice
+- blockpets.command.changepetname.use
+- blockpets.command.togglepet
+- blockpets.pet.Dino
+- blockpets.command.changepetname.use
+- blockpets.command.togglepet
+- blockpets.pet.Dragon_ice
+- blockpets.command.changepetname.use
+- blockpets.command.togglepet
+- blockpets.pet.Dragon_ice
+- blockpets.command.changepetname.use
+- blockpets.command.togglepet
+- blockpets.pet.Dino
+- blockpets.command.changepetname.use
+- blockpets.command.togglepet
+worlds: []
+time: -1
+expTime: -1
+...

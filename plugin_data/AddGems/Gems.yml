@@ -1,0 +1,127 @@
+
+1:
+ Name: "§l§eNgọc sắt bén" #name gem
+ Enchants:
+  VanillaEC: "9:8"
+  PiggyCE: ""
+ ID: '388:0'
+ Lore: "§l§c>§e Loại:§6 Vũ khí\n§l§c>§e Mô tả: Tăng sức sát thương khi khảm vào kiếm"
+2:
+ Name: "§l§eNgọc Sửa chửa" #name gem
+ Enchants: 
+  PiggyCE: "108:0"
+  VanillaEC: ""
+ ID: '388:0'
+ Lore: "§l§c>§e Loại:§6 Công cụ\n§l§c>§e Mô tả: tự động sửa chữa khi hỏng"
+3:
+  Name: "§l§eNgọc Bền Bỉ" #name gem
+  Enchants:
+   PiggyCE: ""
+   VanillaEC: "17:8"
+  ID: '332:0'
+  Lore: "§l§c>§e Loại:§6 Vũ Khí\n§l§c>§e Mô tả: tăng độ bền của kiếm khi khảm vào kiếm"
+4:
+  Name: "§l§eNgọc Bền Bỉ" #name gem
+  Enchants:
+   PiggyCE: ""
+   VanillaEC: "17:8"
+  ID: '332:0'
+  Lore: "§l§c>§e Loại:§6 Vũ Khí\n§l§c>§e Mô tả: tăng độ bền của kiếm khi khảm vào kiếm"
+5:
+  Name: "§l§eNgọc Hút Máu" #name gem
+  Enchants:
+   PiggyCE: "111:2"
+   VanillaEC: ""
+  ID: '388:0'
+  Lore: "§l§c>§e Loại:§6 Vũ Khí\n§l§c>§e Mô tả: hút máu khi khảm vào kiếm"
+6:
+  Name: "§l§eNgọc Độc" #name gem
+  Enchants:
+   PiggyCE: "104:2"
+   VanillaEC: ""
+  ID: '388:0'
+  Lore: "§l§c>§e Loại:§6 Vũ Khí\n§l§c>§e Mô tả: gây kịch độc khi khảm vào kiếm"
+7:
+  Name: "§l§eNgọc Hồi Máu " #name gem
+  Enchants:
+   PiggyCE: "310:2"
+   VanillaEC: ""
+  ID: '341:0'
+  Lore: "§l§c>§e Loại:§6 Giáp\n§l§c>§e Mô tả: hồi máu khi khảm vào trang bị "
+8:
+  Name: "§l§eNgọc May Mắn" #name gem
+  Enchants:
+   PiggyCE: "212:3"
+   VanillaEC: ""
+  ID: '341:0'
+  Lore: "§l§c>§e Loại:§6 Trang Bị\n§l§c>§e Mô tả: tăng may mắn khi khảm vào trang bị"
+9:
+  Name: "§l§eNgọc Sửa Chữa" #name gem
+  Enchants:
+   PiggyCE: "108:2"
+   VanillaEC: ""
+  ID: '341:0'
+  Lore: "§l§c>§e Loại:§6 Trang Bị\n§l§c>§e Mô tả: tự động sửa chữa khi khảm vào trang bị "
+10:
+  Name: "§l§eNgọc Bảo Vệ" #name gem
+  Enchants:
+   PiggyCE: ""
+   VanillaEC: "0:2"
+  ID: '341:0'
+  Lore: "§l§c>§e Loại:§6 Giáp\n§l§c>§e Mô tả: tăng bảo vệ khi khảm vào trang bị"
+11:
+  Name: "§l§eNgọc Hiệu Xuất" #name gem
+  Enchants:
+   PiggyCE: ""
+   VanillaEC: "15:3"
+  ID: '341:0'
+  Lore: "§l§c>§e Loại:§6 Trang Bị\n§l§c>§e Mô tả: giúp khai thác nhanh hơn khảm khi vào trang bị "
+12:
+  Name: "§l§eNgọc Kháng Lữa " #name gem
+  Enchants:
+   PiggyCE: ""
+   VanillaEC: "1:2"
+  ID: '341:0'
+  Lore: "§l§c>§e Loại:§6 Giáp\n§l§c>§e Mô tả: giúp kháng lữa khi khảm vào trang bị"
+13:
+  Name: "§l§eNgọc Gai " #name gem
+  Enchants:
+   PiggyCE: ""
+   VanillaEC: "7:2"
+  ID: '341:0'
+  Lore: "§l§c>§e Loại:§6 Giáp\n§l§c>§e Mô tả: trang bị sẽ trả dame khi được khảm ngọc này"
+14:
+  Name: "§l§eNgọc Vận May" #name gem
+  Enchants:
+   PiggyCE: ""
+   VanillaEC: "18:2"
+  ID: '341:0'
+  Lore: "§l§c>§e Loại:§6 Công cụ\n§l§c>§e Mô tả: tăng số lượng khoáng sản nhận được khi đào"
+15:
+  Name: "§l§eNgọc Lữa " #name gem
+  Enchants:
+   PiggyCE: ""
+   VanillaEC: "13:2"
+  ID: '341:0'
+  Lore: "§l§c>§e Loại:§6 Vũ Khí\n§l§c>§e Mô tả: đốt cháy kẻ địch khi khảm vào kiếm "
+16:
+  Name: "§l§eNgọc Năng Lượng " #name gem
+  Enchants:
+   PiggyCE: "202:2"
+   VanillaEC: ""
+  ID: '341:0'
+  Lore: "§l§c>§e Loại:§6 Công cụ \n§l§c>§e Mô tả: tăng năng lượng giúp đào cực nhanh"
+17:
+  Name: "§l§eNgọc Tinh Anh" #name gem
+  Enchants:
+   PiggyCE: "207:2"
+   VanillaEC: "18:2"
+  ID: '341:0'
+  Lore: "§l§c>§e Loại:§6 Công Cụ\n§l§c>§e Mô tả: **********"
+18:
+  Name: "§l§eNgọc Tinh Anh I" #name gem
+  Enchants:
+   PiggyCE: "101:1"
+   VanillaEC: "9:6"
+  ID: '341:0'
+  Lore: "§l§c>§e Loại:§6 Vũ Khí\n§l§c>§e Mô tả: *************"

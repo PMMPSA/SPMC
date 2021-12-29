@@ -1,0 +1,78 @@
+{
+	"format_version": "1.10.0",
+	"geometry.baleia": {
+		"texturewidth": 128,
+		"textureheight": 128,
+		"visible_bounds_width": 3,
+		"visible_bounds_height": 1,
+		"visible_bounds_offset": [0, 0.5, 0],
+		"bones": [
+			{
+				"name": "body",
+				"pivot": [0, 0, -3],
+				"cubes": [
+					{"origin": [-4, 0, -2], "size": [8, 7, 12], "uv": [0, 0]}
+				]
+			},
+			{
+				"name": "jaw",
+				"parent": "body",
+				"pivot": [0, 1.6, -2],
+				"cubes": [
+					{"origin": [-4, 0.4, -11], "size": [8, 3, 11], "uv": [0, 19], "inflate": -0.4}
+				]
+			},
+			{
+				"name": "head",
+				"parent": "body",
+				"pivot": [0, 5, -2],
+				"cubes": [
+					{"origin": [-4, 3, -11], "size": [8, 4, 12], "uv": [40, 0], "inflate": -0.1}
+				]
+			},
+			{
+				"name": "tail",
+				"parent": "body",
+				"pivot": [0, 3.5, 10],
+				"cubes": [
+					{"origin": [-3, 1, 10], "size": [6, 5, 11], "uv": [38, 19]}
+				]
+			},
+			{
+				"name": "tail_fin",
+				"parent": "tail",
+				"pivot": [0, 3.5, 20],
+				"cubes": [
+					{"origin": [-6, 3, 19], "size": [12, 1, 7], "uv": [0, 35]}
+				]
+			},
+			{
+				"name": "back_fin",
+				"parent": "body",
+				"pivot": [0, 7, 2],
+				"rotation": [-30, 0, 0],
+				"cubes": [
+					{"origin": [-0.5, 4.25, 6], "size": [1, 7, 4], "uv": [0, 43]}
+				]
+			},
+			{
+				"name": "left_fin",
+				"parent": "body",
+				"pivot": [3, 1, 0],
+				"rotation": [0, -25, 20],
+				"cubes": [
+					{"origin": [3, 1, -1.5], "size": [8, 1, 4], "uv": [62, 35]}
+				]
+			},
+			{
+				"name": "right_fin",
+				"parent": "body",
+				"pivot": [-3, 1, 0],
+				"rotation": [0, 25, -20],
+				"cubes": [
+					{"origin": [-11, 1, -1.5], "size": [8, 1, 4], "uv": [38, 35]}
+				]
+			}
+		]
+	}
+}

@@ -1,0 +1,38 @@
+name: Texter
+prefix: Texter
+main: tokyo\pmmp\Texter\Core
+version: 3.4.9
+api: 3.10.0 # pmmp/PocketMine-MP
+softdepend:
+  - FormAPI # jojoe77777/FormAPI
+virions:
+  - libFormAPI # jojoe77777/libFormAPI
+author: yuko_fuyutsuki
+authors:
+# SpecialThanks
+- mfmfnek0
+- onebone
+- ogiwara
+- Shootsta_ERU0531
+- Toganon
+- ShadowArt
+- Marron0421
+- No4NaMe # Russian translation
+- SuperYYT # Chinese translation
+- SuperAdam47 # Turkish translation
+- minijaham # Korean translation
+- VicoSilalahi # Indonesian translation
+website: https://github.com/fuyutsuki/Texter
+
+permissions:
+ texter.*:
+  default: op
+  description: permission that allows player to use texter
+  children:
+   texter.command.*:
+    default: op
+    description: permission that allows player to use texter commands
+    children:
+      texter.command.txt:
+        default: true
+        description: permission that allows player to use /txt

@@ -1,0 +1,142 @@
+#$$\      $$\                     $$\       $$\                     $$\       $$\                 $$\
+#$$$\    $$$ |                    $$ |      \__|                    $$ |      \__|                $$ |
+#$$$$\  $$$$ | $$$$$$\   $$$$$$$\ $$ |  $$\ $$\ $$$$$$$\   $$$$$$\  $$$$$$$\  $$\  $$$$$$\   $$$$$$$ |
+#$$\$$\$$ $$ |$$  __$$\ $$  _____|$$ | $$  |$$ |$$  __$$\ $$  __$$\ $$  __$$\ $$ |$$  __$$\ $$  __$$ |
+#$$ \$$$  $$ |$$ /  $$ |$$ /      $$$$$$  / $$ |$$ |  $$ |$$ /  $$ |$$ |  $$ |$$ |$$ |  \__|$$ /  $$ |
+#$$ |\$  /$$ |$$ |  $$ |$$ |      $$  _$$<  $$ |$$ |  $$ |$$ |  $$ |$$ |  $$ |$$ |$$ |      $$ |  $$ |
+#$$ | \_/ $$ |\$$$$$$  |\$$$$$$$\ $$ | \$$\ $$ |$$ |  $$ |\$$$$$$$ |$$$$$$$  |$$ |$$ |      \$$$$$$$ |
+#\__|     \__| \______/  \_______|\__|  \__|\__|\__|  \__| \____$$ |\_______/ \__|\__|       \_______|
+#                                                         $$\   $$ |                                  
+#                                                         \$$$$$$  |                                  
+#                                                          \______/      
+# ~ Made by @ethaniccc idot </3
+# Github: https://www.github.com/ethaniccc                               
+
+#### DO NOT TOUCH THIS ####
+version: 1.0
+
+# If developer mode is enabled, all checks will be enabled,
+# which may leave false-positives. This should NEVER be enabled
+# on production servers.
+dev_mode: false
+
+## General Settings ##
+
+# You can choose this to be any permission you'd like so
+# that staff members get Mockingbird alerts, etc.
+alert_permission: "mockingbird.alerts"
+
+# You can choose this permission to anything you'd like.
+# This permission is for getting player logs.
+log_permission: "mockingbird.logs"
+
+# This is for module permission such as using /mbenable, /mbdisable, and /mbreload
+# to enable and disable modules through commands.
+module_permission: "mockingbird.modules"
+
+# This is a permission for the screenshare command that will allow the player
+# to "screenshare" other a selected player.
+screenshare_permission: "mockingbird.screenshare"
+
+# This is a bypass permission you can give to people, this means
+# that they will NOT be violated for cheats.
+bypass_permission: "mockingbird.bypass"
+
+# Type any prefix you want for AntiCheat alerts.
+prefix: "AC"
+
+# Prefix shown for when a player is punished, (kick, ban, block)
+punish_prefix: "AC"
+
+# This option is for the max violations a player can get before
+# they are punished by Mockingbird
+max_violations: 75
+
+# This option is for dynamic violations. For example, if a player
+# failed a speed check, and then failed it a second time by the next tick
+# (20 ticks a second), they will have 10 - 20 violations added. If they fail a check
+# after only 5 ticks, 5 violations will be added, etc.
+dynamic_violations: false
+
+# Do you want the player to be kicked, banned, or ip-banned? (You can also choose "none")
+# Options: none, kick, ban, ip-ban
+punishment_type: kick
+# If your punishment type is kick, you can set this to an mount to ban when a player is kicked
+# a certain amount of times. For example, if this option is set to 5, and the player is kicked
+# 5 times, they will be banned. You can set this to -1 to disable.
+max_kicks: -1
+
+# If this option is enabled, this will save the previous data in a .txt file
+# with information such as violations and cheats violated for.
+save_previous_violations: false
+
+# This is for the TPS level detections should be stopped at.
+stop_tps: 18
+
+# This option is for choosing what type of mode you want to use for the
+# /log command. There are two options: normal and UI
+log_command_type: normal
+
+#######   =====================================   #######
+### Commands ###
+
+# Set the value to true if you want the command enabled, and false if you don't.
+LogCommand: true
+ScreenshareCommand: true
+
+#######   =====================================   #######
+
+## Combat Detections ##
+# You can choose to enable or disable cheats with (true/false)
+
+# Toolbox is a hacked client some Android users may use to
+# gain an unfair advantage against other players.
+# See Toolbox KillAura on this YouTube video: https://www.youtube.com/watch?v=K0INXOLxIj8&t
+ToolboxKillaura: true
+
+MultiAura: true
+
+# AutoClickerA is a consistency check.
+AutoClickerA: true
+
+# AutoClickerB is a speed check.
+AutoClickerB: true
+
+Angle: true
+Hitbox: false
+ReachA: true
+ReachB: false
+
+#######   =====================================   #######
+
+## Movement Detections ##
+# You can choose to enable or disable cheats with (true/false)
+
+SpeedA: true
+SpeedB: true
+Glide: true
+NoSlowdown: true
+FastLadder: true
+NoWeb: true
+NoFall: true
+AirJump: true
+FlyA: true
+InventoryMove: false
+Phase: false
+# Will most likely not work with mobile players!
+Scaffold: false
+
+## Packet Checks ##
+# These checks are to detect if packets sent to the server are valid.
+# You can choose to enable or disable cheats with (true/false)
+PacketChecks: true
+
+## Other Detections ##
+# You can choose to enable or disable cheats with (true/false)
+
+EditionFaker: true
+ChestStealer: true
+FastEat: true
+FastBreak: false
+Nuker: true
+Timer: false

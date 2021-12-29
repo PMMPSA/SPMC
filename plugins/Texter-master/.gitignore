@@ -1,0 +1,11 @@
+# Intellij IDEA
+/.idea
+
+# VisualStudio Code
+/.history
+
+# for old-plugin data
+/language
+/config.yml
+/crfts.json
+/fts.json

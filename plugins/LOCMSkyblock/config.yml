@@ -1,0 +1,84 @@
+---
+Version: 1
+SkyBlockWorld Base Name: skyblock
+SkyBlockWorlds:
+- skyblock
+Interval: 500
+CobbleGen: true
+MagicCobbleGen Ores:
+  4: 66
+  21: 34
+Starting Items:
+- 79, 0, 2
+- 325, 10, 1
+- 287, 0, 12
+- 351, 15, 2
+- 338, 0, 1
+- 361, 0, 1
+- 81, 0, 1
+- 360, 0, 1
+- 39, 0, 1
+- 40, 0, 1
+Hunger: true
+Void: true
+PVP: false
+KeepInventory: false
+MemberLimit: 10
+Island Size: 100
+Valuable Blocks:
+  57: 5
+  41: 4
+  42: 3
+  152: 2
+  22: 2
+  173: 1
+World Island Limit: 80
+Reset Cooldown: 86400
+Island Spawn: true
+Invincible Visitors: false
+Name Char Limit: 20
+Enable Challenges: true
+Challenges:
+  easy:collect:4:0:64:Cobble Generator:
+    repeating: false
+    rewards:
+    - 5 value
+  easy:collect:173:0:5:Coal Collector:
+    repeating: false
+    rewards:
+    - 5 value
+    - "173:0:5"
+  easy:collect:17:0:5:Lumberjack:
+    repeating: false
+    rewards:
+    - 10 value
+  easy:add:1:0:0:Team Player:
+    repeating: false
+    rewards:
+    - 10 value
+    - "264:0:1"
+  intermediate:collect:296:0:32:Farmer:
+    repeating: false
+    rewards:
+    - 20 value
+  intermediate:collect:57:0:5:Diamonds!!!:
+    repeating: false
+    rewards:
+    - 30 value
+  advanced:collect:12:0:10:Sand Man:
+    repeating: false
+    rewards:
+    - 40 value
+  advanced:collect:52:20:1:Golem Maker:
+    repeating: false
+    rewards:
+    - 75 value
+  advanced:collect:81:0:64:Cactus Farmer:
+    repeating: false
+    rewards:
+    - 40 value
+  advanced:collect:4:0:2000:Cobble Champion:
+    repeating: false
+    rewards:
+    - 35 value
+...
